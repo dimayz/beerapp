@@ -36,6 +36,7 @@ export default function HomeScreen() {
           <AnimatedIcon />
           <ThemedText type="title" style={styles.title}>
             beerapp&nbsp;
+            Добро пожаловать
           </ThemedText>
         </ThemedView>
 
